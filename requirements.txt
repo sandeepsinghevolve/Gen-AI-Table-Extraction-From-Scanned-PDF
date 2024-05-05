@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+Ipython
+langchain
+PyPDF2
+pdf2image
+langchain_google_genai
+pandas
+openpyxl
+tabula-py
+xlsxwriter
+img2table
